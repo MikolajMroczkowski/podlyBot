@@ -1,0 +1,15 @@
+{
+  "name": "podlybot",
+  "version": "1.0.0",
+  "description": "bardzo podły bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "express": "^4.18.1"
+  }
+}
